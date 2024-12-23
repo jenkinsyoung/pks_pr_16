@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388616183292",
+    "project_id": "chat-gameshop",
+    "storage_bucket": "chat-gameshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388616183292:android:803a89b9200948c068a679",
+        "android_client_info": {
+          "package_name": "com.example.pr_12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4soP1cE2HcPQ2VZWgP6TzwFepDKPVWW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
